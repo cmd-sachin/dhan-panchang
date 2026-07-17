@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+# secrets - never commit
+.env
+# ml artifacts
+ml/.venv
+ml/panel.csv
+.claude
+.ml
+.env.production

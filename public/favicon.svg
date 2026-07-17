@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Matches the in-app Brand mark (src/components/Brand.tsx) -->
+  <rect x="3" y="3" width="16" height="16" rx="5" fill="#16401f" />
+  <rect x="13" y="13" width="16" height="16" rx="5" fill="#a6e64f" />
+</svg>
