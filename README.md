@@ -4,8 +4,7 @@
 > of money events, warns weeks early with a **named cause**, works with **no
 > network**, and gets smarter with every entry.
 
-Built for the **NABARD Hackathon @ Global FinTech Fest 2026** —
-_AI-Driven Cash Flow Prediction & Risk Flagging for Rural Micro Enterprises_.
+AI-Driven Cash Flow Prediction & Risk Flagging for Rural Micro Enterprises.
 
 ---
 
