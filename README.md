@@ -18,13 +18,13 @@ on-device forecast engine:
 | **Onboarding** | Pick sector + district, opening balance. Or load the Meena demo. |
 | **Almanac (Home)** | Status hero + 3 KPIs + the signature **6-month heat-strip** (surplus/tight/deficit weeks with event markers, tap a week for its drivers). |
 | **Alerts** | Risk flags, each with a **named cause + gap week + rupee shortfall + a mapped action**. |
-| **Diary (Ledger)** | Append-only money diary. Quick add (income/expense, category chips, optional 🎙 voice). Every entry sharpens the forecast. |
+| **Diary (Ledger)** | Append-only money diary. Quick add (income/expense, category chips, optional voice). Every entry sharpens the forecast. |
 | **What-if** | Sliders (feed price / monsoon / demand / fuel) recompute the forecast **on-device, instantly**, layered on top of live district conditions. |
 
 Plus: **6 languages** (English, हिन्दी, मराठी, தமிழ், తెలుగు, বাংলা) with a live
 switcher, and an **online/offline indicator** driving the airplane-mode demo beat.
 
-And the **field-officer experience** (switch role from the 🌐 settings sheet):
+And the **field-officer experience** (switch role from the  settings sheet):
 
 | Screen | What it does |
 |---|---|
